@@ -1,3 +1,4 @@
+it's a personal customization of another repository
 # Vim + LaTeX snippets setup
 
 *[How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)*
